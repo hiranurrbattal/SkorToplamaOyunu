@@ -1,0 +1,2301 @@
+--- OYUN BAŞLADI ---
+UPDATE -> itemSpawned x=19 y=1 symbol=*
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=19 newY=5
+UPDATE -> itemSpawned x=6 y=1 symbol=*
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+INPUT -> key=RightArrow playerX=15 playerY=14
+MOVEMENT -> oldX=14 newX=15
+UPDATE -> itemSpawned x=18 y=1 symbol=O
+ITEM_MOVEMENT -> newX=18 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+ITEM_MOVEMENT -> newX=18 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=18 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+INPUT -> key=RightArrow playerX=16 playerY=14
+MOVEMENT -> oldX=15 newX=16
+ITEM_MOVEMENT -> newX=18 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=4 y=1 symbol=O
+ITEM_MOVEMENT -> newX=4 newY=2
+ITEM_MOVEMENT -> newX=18 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+INPUT -> key=RightArrow playerX=17 playerY=14
+MOVEMENT -> oldX=16 newX=17
+ITEM_MOVEMENT -> newX=4 newY=3
+ITEM_MOVEMENT -> newX=18 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=4 newY=4
+ITEM_MOVEMENT -> newX=18 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=4 newY=5
+ITEM_MOVEMENT -> newX=18 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=22 y=1 symbol=O
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=4 newY=6
+ITEM_MOVEMENT -> newX=18 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=4 newY=7
+ITEM_MOVEMENT -> newX=18 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=4 newY=8
+ITEM_MOVEMENT -> newX=18 newY=12
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=4 newY=9
+ITEM_MOVEMENT -> newX=18 newY=13
+UPDATE -> itemSpawned x=0 y=1 symbol=*
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=4 newY=10
+ITEM_MOVEMENT -> newX=18 newY=14
+INPUT -> key=RightArrow playerX=18 playerY=14
+MOVEMENT -> oldX=17 newX=18
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=4 newY=11
+ITEM_MOVEMENT -> newX=18 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=4 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=4 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=O
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=4 newY=14
+INPUT -> key=RightArrow playerX=19 playerY=14
+MOVEMENT -> oldX=18 newX=19
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=4 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+INPUT -> key=RightArrow playerX=20 playerY=14
+MOVEMENT -> oldX=19 newX=20
+UPDATE -> itemSpawned x=17 y=1 symbol=O
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+INPUT -> key=RightArrow playerX=21 playerY=14
+MOVEMENT -> oldX=20 newX=21
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=16 y=1 symbol=O
+ITEM_MOVEMENT -> newX=16 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+ITEM_MOVEMENT -> newX=16 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+INPUT -> key=LeftArrow playerX=20 playerY=14
+MOVEMENT -> oldX=21 newX=20
+ITEM_MOVEMENT -> newX=16 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=16 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+UPDATE -> itemSpawned x=27 y=1 symbol=*
+ITEM_MOVEMENT -> newX=27 newY=2
+ITEM_MOVEMENT -> newX=16 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+ITEM_MOVEMENT -> newX=27 newY=3
+ITEM_MOVEMENT -> newX=16 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+ITEM_MOVEMENT -> newX=27 newY=4
+ITEM_MOVEMENT -> newX=16 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+ITEM_MOVEMENT -> newX=27 newY=5
+ITEM_MOVEMENT -> newX=16 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+INPUT -> key=LeftArrow playerX=19 playerY=14
+MOVEMENT -> oldX=20 newX=19
+UPDATE -> itemSpawned x=12 y=1 symbol=*
+ITEM_MOVEMENT -> newX=12 newY=2
+ITEM_MOVEMENT -> newX=27 newY=6
+ITEM_MOVEMENT -> newX=16 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+ITEM_MOVEMENT -> newX=12 newY=3
+ITEM_MOVEMENT -> newX=27 newY=7
+ITEM_MOVEMENT -> newX=16 newY=11
+ITEM_MOVEMENT -> newX=17 newY=15
+ITEM_MOVEMENT -> newX=12 newY=4
+ITEM_MOVEMENT -> newX=27 newY=8
+ITEM_MOVEMENT -> newX=16 newY=12
+ITEM_MOVEMENT -> newX=12 newY=5
+ITEM_MOVEMENT -> newX=27 newY=9
+ITEM_MOVEMENT -> newX=16 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=*
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=12 newY=6
+ITEM_MOVEMENT -> newX=27 newY=10
+ITEM_MOVEMENT -> newX=16 newY=14
+INPUT -> key=LeftArrow playerX=18 playerY=14
+MOVEMENT -> oldX=19 newX=18
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=12 newY=7
+ITEM_MOVEMENT -> newX=27 newY=11
+ITEM_MOVEMENT -> newX=16 newY=15
+INPUT -> key=LeftArrow playerX=17 playerY=14
+MOVEMENT -> oldX=18 newX=17
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=12 newY=8
+ITEM_MOVEMENT -> newX=27 newY=12
+INPUT -> key=LeftArrow playerX=16 playerY=14
+MOVEMENT -> oldX=17 newX=16
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=12 newY=9
+ITEM_MOVEMENT -> newX=27 newY=13
+INPUT -> key=LeftArrow playerX=15 playerY=14
+MOVEMENT -> oldX=16 newX=15
+UPDATE -> itemSpawned x=16 y=1 symbol=O
+ITEM_MOVEMENT -> newX=16 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=12 newY=10
+ITEM_MOVEMENT -> newX=27 newY=14
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+ITEM_MOVEMENT -> newX=16 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=12 newY=11
+ITEM_MOVEMENT -> newX=27 newY=15
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=16 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=12 newY=12
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+ITEM_MOVEMENT -> newX=16 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=12 newY=13
+INPUT -> key=LeftArrow playerX=11 playerY=14
+MOVEMENT -> oldX=12 newX=11
+UPDATE -> itemSpawned x=27 y=1 symbol=O
+ITEM_MOVEMENT -> newX=27 newY=2
+ITEM_MOVEMENT -> newX=16 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=12 newY=14
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=27 newY=3
+ITEM_MOVEMENT -> newX=16 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=12 newY=15
+INPUT -> key=LeftArrow playerX=9 playerY=14
+MOVEMENT -> oldX=10 newX=9
+ITEM_MOVEMENT -> newX=27 newY=4
+ITEM_MOVEMENT -> newX=16 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+INPUT -> key=LeftArrow playerX=8 playerY=14
+MOVEMENT -> oldX=9 newX=8
+ITEM_MOVEMENT -> newX=27 newY=5
+ITEM_MOVEMENT -> newX=16 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+UPDATE -> itemSpawned x=26 y=1 symbol=*
+ITEM_MOVEMENT -> newX=26 newY=2
+ITEM_MOVEMENT -> newX=27 newY=6
+ITEM_MOVEMENT -> newX=16 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=26 newY=3
+ITEM_MOVEMENT -> newX=27 newY=7
+ITEM_MOVEMENT -> newX=16 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+INPUT -> key=LeftArrow playerX=5 playerY=14
+MOVEMENT -> oldX=6 newX=5
+ITEM_MOVEMENT -> newX=26 newY=4
+ITEM_MOVEMENT -> newX=27 newY=8
+ITEM_MOVEMENT -> newX=16 newY=12
+INPUT -> key=RightArrow playerX=6 playerY=14
+MOVEMENT -> oldX=5 newX=6
+ITEM_MOVEMENT -> newX=26 newY=5
+ITEM_MOVEMENT -> newX=27 newY=9
+ITEM_MOVEMENT -> newX=16 newY=13
+UPDATE -> itemSpawned x=24 y=1 symbol=*
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=26 newY=6
+ITEM_MOVEMENT -> newX=27 newY=10
+ITEM_MOVEMENT -> newX=16 newY=14
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=26 newY=7
+ITEM_MOVEMENT -> newX=27 newY=11
+ITEM_MOVEMENT -> newX=16 newY=15
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=26 newY=8
+ITEM_MOVEMENT -> newX=27 newY=12
+INPUT -> key=RightArrow playerX=9 playerY=14
+MOVEMENT -> oldX=8 newX=9
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=26 newY=9
+ITEM_MOVEMENT -> newX=27 newY=13
+INPUT -> key=RightArrow playerX=10 playerY=14
+MOVEMENT -> oldX=9 newX=10
+UPDATE -> itemSpawned x=17 y=1 symbol=*
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=26 newY=10
+ITEM_MOVEMENT -> newX=27 newY=14
+INPUT -> key=RightArrow playerX=11 playerY=14
+MOVEMENT -> oldX=10 newX=11
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=26 newY=11
+ITEM_MOVEMENT -> newX=27 newY=15
+INPUT -> key=RightArrow playerX=12 playerY=14
+MOVEMENT -> oldX=11 newX=12
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=26 newY=12
+INPUT -> key=RightArrow playerX=13 playerY=14
+MOVEMENT -> oldX=12 newX=13
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=26 newY=13
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+UPDATE -> itemSpawned x=18 y=1 symbol=*
+ITEM_MOVEMENT -> newX=18 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=26 newY=14
+INPUT -> key=RightArrow playerX=15 playerY=14
+MOVEMENT -> oldX=14 newX=15
+ITEM_MOVEMENT -> newX=18 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=26 newY=15
+INPUT -> key=RightArrow playerX=16 playerY=14
+MOVEMENT -> oldX=15 newX=16
+ITEM_MOVEMENT -> newX=18 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+INPUT -> key=RightArrow playerX=17 playerY=14
+MOVEMENT -> oldX=16 newX=17
+ITEM_MOVEMENT -> newX=18 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+INPUT -> key=RightArrow playerX=18 playerY=14
+MOVEMENT -> oldX=17 newX=18
+UPDATE -> itemSpawned x=19 y=1 symbol=*
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=18 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+INPUT -> key=RightArrow playerX=19 playerY=14
+MOVEMENT -> oldX=18 newX=19
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=18 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+INPUT -> key=RightArrow playerX=20 playerY=14
+MOVEMENT -> oldX=19 newX=20
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=18 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+INPUT -> key=RightArrow playerX=21 playerY=14
+MOVEMENT -> oldX=20 newX=21
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=18 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+INPUT -> key=RightArrow playerX=22 playerY=14
+MOVEMENT -> oldX=21 newX=22
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=18 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+INPUT -> key=RightArrow playerX=23 playerY=14
+MOVEMENT -> oldX=22 newX=23
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=18 newY=11
+ITEM_MOVEMENT -> newX=17 newY=15
+INPUT -> key=RightArrow playerX=24 playerY=14
+MOVEMENT -> oldX=23 newX=24
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=18 newY=12
+INPUT -> key=RightArrow playerX=25 playerY=14
+MOVEMENT -> oldX=24 newX=25
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=18 newY=13
+INPUT -> key=RightArrow playerX=26 playerY=14
+MOVEMENT -> oldX=25 newX=26
+UPDATE -> itemSpawned x=10 y=1 symbol=O
+ITEM_MOVEMENT -> newX=10 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=18 newY=14
+INPUT -> key=RightArrow playerX=27 playerY=14
+MOVEMENT -> oldX=26 newX=27
+ITEM_MOVEMENT -> newX=10 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=18 newY=15
+INPUT -> key=RightArrow playerX=28 playerY=14
+MOVEMENT -> oldX=27 newX=28
+ITEM_MOVEMENT -> newX=10 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=10 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=19 y=1 symbol=O
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=10 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=10 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+INPUT -> key=LeftArrow playerX=27 playerY=14
+MOVEMENT -> oldX=28 newX=27
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=10 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=10 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+INPUT -> key=LeftArrow playerX=26 playerY=14
+MOVEMENT -> oldX=27 newX=26
+UPDATE -> itemSpawned x=23 y=1 symbol=O
+ITEM_MOVEMENT -> newX=23 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=10 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=23 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=10 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+INPUT -> key=LeftArrow playerX=25 playerY=14
+MOVEMENT -> oldX=26 newX=25
+ITEM_MOVEMENT -> newX=23 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=10 newY=12
+ITEM_MOVEMENT -> newX=23 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=10 newY=13
+UPDATE -> itemSpawned x=17 y=1 symbol=*
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=23 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=10 newY=14
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=23 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=10 newY=15
+INPUT -> key=LeftArrow playerX=24 playerY=14
+MOVEMENT -> oldX=25 newX=24
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=23 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+INPUT -> key=LeftArrow playerX=23 playerY=14
+MOVEMENT -> oldX=24 newX=23
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=23 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=*
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=23 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+INPUT -> key=LeftArrow playerX=22 playerY=14
+MOVEMENT -> oldX=23 newX=22
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=23 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=23 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=23 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=O
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=23 newY=14
+INPUT -> key=RightArrow playerX=23 playerY=14
+MOVEMENT -> oldX=22 newX=23
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=23 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+INPUT -> key=RightArrow playerX=24 playerY=14
+MOVEMENT -> oldX=23 newX=24
+UPDATE -> itemSpawned x=3 y=1 symbol=O
+ITEM_MOVEMENT -> newX=3 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+ITEM_MOVEMENT -> newX=3 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=17 newY=15
+INPUT -> key=LeftArrow playerX=23 playerY=14
+MOVEMENT -> oldX=24 newX=23
+ITEM_MOVEMENT -> newX=3 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=3 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+INPUT -> key=LeftArrow playerX=22 playerY=14
+MOVEMENT -> oldX=23 newX=22
+UPDATE -> itemSpawned x=1 y=1 symbol=O
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=3 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=3 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+INPUT -> key=LeftArrow playerX=21 playerY=14
+MOVEMENT -> oldX=22 newX=21
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=3 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+INPUT -> key=LeftArrow playerX=20 playerY=14
+MOVEMENT -> oldX=21 newX=20
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=3 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=*
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=3 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+INPUT -> key=LeftArrow playerX=19 playerY=14
+MOVEMENT -> oldX=20 newX=19
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=3 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=3 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=3 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=O
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=3 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=3 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=O
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+UPDATE -> itemSpawned x=1 y=1 symbol=*
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=*
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+INPUT -> key=LeftArrow playerX=18 playerY=14
+MOVEMENT -> oldX=19 newX=18
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+UPDATE -> itemSpawned x=9 y=1 symbol=O
+ITEM_MOVEMENT -> newX=9 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=9 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+ITEM_MOVEMENT -> newX=9 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=9 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=*
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=9 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=9 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=9 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=9 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=7 y=1 symbol=O
+ITEM_MOVEMENT -> newX=7 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=9 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=7 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=9 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=7 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=9 newY=12
+INPUT -> key=LeftArrow playerX=17 playerY=14
+MOVEMENT -> oldX=18 newX=17
+ITEM_MOVEMENT -> newX=7 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=9 newY=13
+UPDATE -> itemSpawned x=22 y=1 symbol=*
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=7 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=9 newY=14
+INPUT -> key=LeftArrow playerX=16 playerY=14
+MOVEMENT -> oldX=17 newX=16
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=7 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=9 newY=15
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=7 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=7 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+UPDATE -> itemSpawned x=13 y=1 symbol=*
+ITEM_MOVEMENT -> newX=13 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=7 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+INPUT -> key=LeftArrow playerX=15 playerY=14
+MOVEMENT -> oldX=16 newX=15
+ITEM_MOVEMENT -> newX=13 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=7 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+ITEM_MOVEMENT -> newX=13 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=7 newY=12
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+ITEM_MOVEMENT -> newX=13 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=7 newY=13
+UPDATE -> itemSpawned x=5 y=1 symbol=*
+ITEM_MOVEMENT -> newX=5 newY=2
+ITEM_MOVEMENT -> newX=13 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=7 newY=14
+ITEM_MOVEMENT -> newX=5 newY=3
+ITEM_MOVEMENT -> newX=13 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=7 newY=15
+ITEM_MOVEMENT -> newX=5 newY=4
+ITEM_MOVEMENT -> newX=13 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+ITEM_MOVEMENT -> newX=5 newY=5
+ITEM_MOVEMENT -> newX=13 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+UPDATE -> itemSpawned x=19 y=1 symbol=*
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=5 newY=6
+ITEM_MOVEMENT -> newX=13 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=5 newY=7
+ITEM_MOVEMENT -> newX=13 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=5 newY=8
+ITEM_MOVEMENT -> newX=13 newY=12
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=5 newY=9
+ITEM_MOVEMENT -> newX=13 newY=13
+UPDATE -> itemSpawned x=0 y=1 symbol=*
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=5 newY=10
+ITEM_MOVEMENT -> newX=13 newY=14
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=5 newY=11
+ITEM_MOVEMENT -> newX=13 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=5 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=5 newY=13
+UPDATE -> itemSpawned x=4 y=1 symbol=O
+ITEM_MOVEMENT -> newX=4 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=5 newY=14
+ITEM_MOVEMENT -> newX=4 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=5 newY=15
+ITEM_MOVEMENT -> newX=4 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=4 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=4 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=4 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=4 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=4 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=7 y=1 symbol=O
+ITEM_MOVEMENT -> newX=7 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=4 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=7 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=4 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+ITEM_MOVEMENT -> newX=7 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=4 newY=12
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+ITEM_MOVEMENT -> newX=7 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=4 newY=13
+UPDATE -> itemSpawned x=27 y=1 symbol=O
+ITEM_MOVEMENT -> newX=27 newY=2
+ITEM_MOVEMENT -> newX=7 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=4 newY=14
+ITEM_MOVEMENT -> newX=27 newY=3
+ITEM_MOVEMENT -> newX=7 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=4 newY=15
+ITEM_MOVEMENT -> newX=27 newY=4
+ITEM_MOVEMENT -> newX=7 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=27 newY=5
+ITEM_MOVEMENT -> newX=7 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+INPUT -> key=LeftArrow playerX=11 playerY=14
+MOVEMENT -> oldX=12 newX=11
+UPDATE -> itemSpawned x=1 y=1 symbol=O
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=27 newY=6
+ITEM_MOVEMENT -> newX=7 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=27 newY=7
+ITEM_MOVEMENT -> newX=7 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=27 newY=8
+ITEM_MOVEMENT -> newX=7 newY=12
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=27 newY=9
+ITEM_MOVEMENT -> newX=7 newY=13
+INPUT -> key=LeftArrow playerX=9 playerY=14
+MOVEMENT -> oldX=10 newX=9
+UPDATE -> itemSpawned x=15 y=1 symbol=O
+ITEM_MOVEMENT -> newX=15 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=27 newY=10
+ITEM_MOVEMENT -> newX=7 newY=14
+ITEM_MOVEMENT -> newX=15 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=27 newY=11
+ITEM_MOVEMENT -> newX=7 newY=15
+INPUT -> key=LeftArrow playerX=8 playerY=14
+MOVEMENT -> oldX=9 newX=8
+ITEM_MOVEMENT -> newX=15 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=27 newY=12
+ITEM_MOVEMENT -> newX=15 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=27 newY=13
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+UPDATE -> itemSpawned x=22 y=1 symbol=*
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=15 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=27 newY=14
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=15 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=27 newY=15
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=15 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=15 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+INPUT -> key=LeftArrow playerX=5 playerY=14
+MOVEMENT -> oldX=6 newX=5
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=15 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=15 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=15 newY=12
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=15 newY=13
+INPUT -> key=RightArrow playerX=6 playerY=14
+MOVEMENT -> oldX=5 newX=6
+UPDATE -> itemSpawned x=20 y=1 symbol=*
+ITEM_MOVEMENT -> newX=20 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=15 newY=14
+ITEM_MOVEMENT -> newX=20 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=15 newY=15
+ITEM_MOVEMENT -> newX=20 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=20 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+UPDATE -> itemSpawned x=16 y=1 symbol=*
+ITEM_MOVEMENT -> newX=16 newY=2
+ITEM_MOVEMENT -> newX=20 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+ITEM_MOVEMENT -> newX=16 newY=3
+ITEM_MOVEMENT -> newX=20 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+ITEM_MOVEMENT -> newX=16 newY=4
+ITEM_MOVEMENT -> newX=20 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+ITEM_MOVEMENT -> newX=16 newY=5
+ITEM_MOVEMENT -> newX=20 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+UPDATE -> itemSpawned x=5 y=1 symbol=*
+ITEM_MOVEMENT -> newX=5 newY=2
+ITEM_MOVEMENT -> newX=16 newY=6
+ITEM_MOVEMENT -> newX=20 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+ITEM_MOVEMENT -> newX=5 newY=3
+ITEM_MOVEMENT -> newX=16 newY=7
+ITEM_MOVEMENT -> newX=20 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+ITEM_MOVEMENT -> newX=5 newY=4
+ITEM_MOVEMENT -> newX=16 newY=8
+ITEM_MOVEMENT -> newX=20 newY=12
+INPUT -> key=RightArrow playerX=9 playerY=14
+MOVEMENT -> oldX=8 newX=9
+ITEM_MOVEMENT -> newX=5 newY=5
+ITEM_MOVEMENT -> newX=16 newY=9
+ITEM_MOVEMENT -> newX=20 newY=13
+UPDATE -> itemSpawned x=12 y=1 symbol=O
+ITEM_MOVEMENT -> newX=12 newY=2
+ITEM_MOVEMENT -> newX=5 newY=6
+ITEM_MOVEMENT -> newX=16 newY=10
+ITEM_MOVEMENT -> newX=20 newY=14
+INPUT -> key=RightArrow playerX=10 playerY=14
+MOVEMENT -> oldX=9 newX=10
+ITEM_MOVEMENT -> newX=12 newY=3
+ITEM_MOVEMENT -> newX=5 newY=7
+ITEM_MOVEMENT -> newX=16 newY=11
+ITEM_MOVEMENT -> newX=20 newY=15
+ITEM_MOVEMENT -> newX=12 newY=4
+ITEM_MOVEMENT -> newX=5 newY=8
+ITEM_MOVEMENT -> newX=16 newY=12
+INPUT -> key=RightArrow playerX=11 playerY=14
+MOVEMENT -> oldX=10 newX=11
+ITEM_MOVEMENT -> newX=12 newY=5
+ITEM_MOVEMENT -> newX=5 newY=9
+ITEM_MOVEMENT -> newX=16 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=12 newY=6
+ITEM_MOVEMENT -> newX=5 newY=10
+ITEM_MOVEMENT -> newX=16 newY=14
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=12 newY=7
+ITEM_MOVEMENT -> newX=5 newY=11
+ITEM_MOVEMENT -> newX=16 newY=15
+INPUT -> key=RightArrow playerX=12 playerY=14
+MOVEMENT -> oldX=11 newX=12
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=12 newY=8
+ITEM_MOVEMENT -> newX=5 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=12 newY=9
+ITEM_MOVEMENT -> newX=5 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=*
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=12 newY=10
+ITEM_MOVEMENT -> newX=5 newY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=12 newY=11
+ITEM_MOVEMENT -> newX=5 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=12 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=12 newY=13
+INPUT -> key=LeftArrow playerX=11 playerY=14
+MOVEMENT -> oldX=12 newX=11
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=12 newY=14
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=12 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+UPDATE -> itemSpawned x=19 y=1 symbol=O
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+INPUT -> key=RightArrow playerX=11 playerY=14
+MOVEMENT -> oldX=10 newX=11
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=27 y=1 symbol=*
+ITEM_MOVEMENT -> newX=27 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+INPUT -> key=LeftArrow playerX=9 playerY=14
+MOVEMENT -> oldX=10 newX=9
+ITEM_MOVEMENT -> newX=27 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+INPUT -> key=LeftArrow playerX=8 playerY=14
+MOVEMENT -> oldX=9 newX=8
+ITEM_MOVEMENT -> newX=27 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=27 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=27 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=27 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=27 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=27 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=27 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+COLLISION -> score=1 itemX=8 itemY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=27 newY=11
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=27 newY=12
+INPUT -> key=RightArrow playerX=9 playerY=14
+MOVEMENT -> oldX=8 newX=9
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=27 newY=13
+UPDATE -> itemSpawned x=10 y=1 symbol=*
+ITEM_MOVEMENT -> newX=10 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=27 newY=14
+INPUT -> key=RightArrow playerX=10 playerY=14
+MOVEMENT -> oldX=9 newX=10
+ITEM_MOVEMENT -> newX=10 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=27 newY=15
+ITEM_MOVEMENT -> newX=10 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=10 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+UPDATE -> itemSpawned x=13 y=1 symbol=O
+ITEM_MOVEMENT -> newX=13 newY=2
+ITEM_MOVEMENT -> newX=10 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=13 newY=3
+ITEM_MOVEMENT -> newX=10 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+INPUT -> key=RightArrow playerX=11 playerY=14
+MOVEMENT -> oldX=10 newX=11
+ITEM_MOVEMENT -> newX=13 newY=4
+ITEM_MOVEMENT -> newX=10 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+INPUT -> key=RightArrow playerX=12 playerY=14
+MOVEMENT -> oldX=11 newX=12
+ITEM_MOVEMENT -> newX=13 newY=5
+ITEM_MOVEMENT -> newX=10 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+INPUT -> key=RightArrow playerX=13 playerY=14
+MOVEMENT -> oldX=12 newX=13
+UPDATE -> itemSpawned x=19 y=1 symbol=O
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=13 newY=6
+ITEM_MOVEMENT -> newX=10 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=13 newY=7
+ITEM_MOVEMENT -> newX=10 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+INPUT -> key=RightArrow playerX=15 playerY=14
+MOVEMENT -> oldX=14 newX=15
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=13 newY=8
+ITEM_MOVEMENT -> newX=10 newY=12
+INPUT -> key=RightArrow playerX=16 playerY=14
+MOVEMENT -> oldX=15 newX=16
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=13 newY=9
+ITEM_MOVEMENT -> newX=10 newY=13
+INPUT -> key=RightArrow playerX=17 playerY=14
+MOVEMENT -> oldX=16 newX=17
+UPDATE -> itemSpawned x=26 y=1 symbol=*
+ITEM_MOVEMENT -> newX=26 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=13 newY=10
+ITEM_MOVEMENT -> newX=10 newY=14
+ITEM_MOVEMENT -> newX=26 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=13 newY=11
+ITEM_MOVEMENT -> newX=10 newY=15
+INPUT -> key=LeftArrow playerX=16 playerY=14
+MOVEMENT -> oldX=17 newX=16
+ITEM_MOVEMENT -> newX=26 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=13 newY=12
+INPUT -> key=LeftArrow playerX=15 playerY=14
+MOVEMENT -> oldX=16 newX=15
+ITEM_MOVEMENT -> newX=26 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=13 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=O
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=26 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=13 newY=14
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=26 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=13 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=26 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=26 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=23 y=1 symbol=*
+ITEM_MOVEMENT -> newX=23 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=26 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+ITEM_MOVEMENT -> newX=23 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=26 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=23 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=26 newY=12
+ITEM_MOVEMENT -> newX=23 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=26 newY=13
+UPDATE -> itemSpawned x=1 y=1 symbol=O
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=23 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=26 newY=14
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=23 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=26 newY=15
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=23 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+INPUT -> key=LeftArrow playerX=11 playerY=14
+MOVEMENT -> oldX=12 newX=11
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=23 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=2 y=1 symbol=*
+ITEM_MOVEMENT -> newX=2 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=23 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=2 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=23 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+INPUT -> key=LeftArrow playerX=9 playerY=14
+MOVEMENT -> oldX=10 newX=9
+ITEM_MOVEMENT -> newX=2 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=23 newY=12
+ITEM_MOVEMENT -> newX=2 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=23 newY=13
+UPDATE -> itemSpawned x=3 y=1 symbol=O
+ITEM_MOVEMENT -> newX=3 newY=2
+ITEM_MOVEMENT -> newX=2 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=23 newY=14
+ITEM_MOVEMENT -> newX=3 newY=3
+ITEM_MOVEMENT -> newX=2 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=23 newY=15
+ITEM_MOVEMENT -> newX=3 newY=4
+ITEM_MOVEMENT -> newX=2 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=3 newY=5
+ITEM_MOVEMENT -> newX=2 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+INPUT -> key=LeftArrow playerX=8 playerY=14
+MOVEMENT -> oldX=9 newX=8
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=3 newY=6
+ITEM_MOVEMENT -> newX=2 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=3 newY=7
+ITEM_MOVEMENT -> newX=2 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=3 newY=8
+ITEM_MOVEMENT -> newX=2 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=3 newY=9
+ITEM_MOVEMENT -> newX=2 newY=13
+UPDATE -> itemSpawned x=9 y=1 symbol=O
+ITEM_MOVEMENT -> newX=9 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=3 newY=10
+ITEM_MOVEMENT -> newX=2 newY=14
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+ITEM_MOVEMENT -> newX=9 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=3 newY=11
+ITEM_MOVEMENT -> newX=2 newY=15
+ITEM_MOVEMENT -> newX=9 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=3 newY=12
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=9 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=3 newY=13
+INPUT -> key=LeftArrow playerX=5 playerY=14
+MOVEMENT -> oldX=6 newX=5
+UPDATE -> itemSpawned x=15 y=1 symbol=*
+ITEM_MOVEMENT -> newX=15 newY=2
+ITEM_MOVEMENT -> newX=9 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=3 newY=14
+ITEM_MOVEMENT -> newX=15 newY=3
+ITEM_MOVEMENT -> newX=9 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=3 newY=15
+INPUT -> key=LeftArrow playerX=4 playerY=14
+MOVEMENT -> oldX=5 newX=4
+ITEM_MOVEMENT -> newX=15 newY=4
+ITEM_MOVEMENT -> newX=9 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=15 newY=5
+ITEM_MOVEMENT -> newX=9 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+INPUT -> key=LeftArrow playerX=3 playerY=14
+MOVEMENT -> oldX=4 newX=3
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=15 newY=6
+ITEM_MOVEMENT -> newX=9 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=15 newY=7
+ITEM_MOVEMENT -> newX=9 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=15 newY=8
+ITEM_MOVEMENT -> newX=9 newY=12
+INPUT -> key=RightArrow playerX=4 playerY=14
+MOVEMENT -> oldX=3 newX=4
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=15 newY=9
+ITEM_MOVEMENT -> newX=9 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=15 newY=10
+ITEM_MOVEMENT -> newX=9 newY=14
+INPUT -> key=RightArrow playerX=5 playerY=14
+MOVEMENT -> oldX=4 newX=5
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=15 newY=11
+ITEM_MOVEMENT -> newX=9 newY=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=15 newY=12
+INPUT -> key=RightArrow playerX=6 playerY=14
+MOVEMENT -> oldX=5 newX=6
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=15 newY=13
+UPDATE -> itemSpawned x=13 y=1 symbol=*
+ITEM_MOVEMENT -> newX=13 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=15 newY=14
+ITEM_MOVEMENT -> newX=13 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=15 newY=15
+ITEM_MOVEMENT -> newX=13 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=13 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=17 y=1 symbol=O
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=13 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=13 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=13 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=13 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+UPDATE -> itemSpawned x=26 y=1 symbol=O
+ITEM_MOVEMENT -> newX=26 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=13 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=26 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=13 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+ITEM_MOVEMENT -> newX=26 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=13 newY=12
+ITEM_MOVEMENT -> newX=26 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=13 newY=13
+UPDATE -> itemSpawned x=11 y=1 symbol=O
+ITEM_MOVEMENT -> newX=11 newY=2
+ITEM_MOVEMENT -> newX=26 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=13 newY=14
+ITEM_MOVEMENT -> newX=11 newY=3
+ITEM_MOVEMENT -> newX=26 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=13 newY=15
+ITEM_MOVEMENT -> newX=11 newY=4
+ITEM_MOVEMENT -> newX=26 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=11 newY=5
+ITEM_MOVEMENT -> newX=26 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+UPDATE -> itemSpawned x=27 y=1 symbol=O
+ITEM_MOVEMENT -> newX=27 newY=2
+ITEM_MOVEMENT -> newX=11 newY=6
+ITEM_MOVEMENT -> newX=26 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+ITEM_MOVEMENT -> newX=27 newY=3
+ITEM_MOVEMENT -> newX=11 newY=7
+ITEM_MOVEMENT -> newX=26 newY=11
+ITEM_MOVEMENT -> newX=17 newY=15
+ITEM_MOVEMENT -> newX=27 newY=4
+ITEM_MOVEMENT -> newX=11 newY=8
+ITEM_MOVEMENT -> newX=26 newY=12
+ITEM_MOVEMENT -> newX=27 newY=5
+ITEM_MOVEMENT -> newX=11 newY=9
+ITEM_MOVEMENT -> newX=26 newY=13
+INPUT -> key=RightArrow playerX=9 playerY=14
+MOVEMENT -> oldX=8 newX=9
+UPDATE -> itemSpawned x=4 y=1 symbol=*
+ITEM_MOVEMENT -> newX=4 newY=2
+ITEM_MOVEMENT -> newX=27 newY=6
+ITEM_MOVEMENT -> newX=11 newY=10
+ITEM_MOVEMENT -> newX=26 newY=14
+ITEM_MOVEMENT -> newX=4 newY=3
+ITEM_MOVEMENT -> newX=27 newY=7
+ITEM_MOVEMENT -> newX=11 newY=11
+ITEM_MOVEMENT -> newX=26 newY=15
+INPUT -> key=RightArrow playerX=10 playerY=14
+MOVEMENT -> oldX=9 newX=10
+ITEM_MOVEMENT -> newX=4 newY=4
+ITEM_MOVEMENT -> newX=27 newY=8
+ITEM_MOVEMENT -> newX=11 newY=12
+ITEM_MOVEMENT -> newX=4 newY=5
+ITEM_MOVEMENT -> newX=27 newY=9
+ITEM_MOVEMENT -> newX=11 newY=13
+UPDATE -> itemSpawned x=19 y=1 symbol=*
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=4 newY=6
+ITEM_MOVEMENT -> newX=27 newY=10
+ITEM_MOVEMENT -> newX=11 newY=14
+INPUT -> key=RightArrow playerX=11 playerY=14
+MOVEMENT -> oldX=10 newX=11
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=4 newY=7
+ITEM_MOVEMENT -> newX=27 newY=11
+ITEM_MOVEMENT -> newX=11 newY=15
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=4 newY=8
+ITEM_MOVEMENT -> newX=27 newY=12
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=4 newY=9
+ITEM_MOVEMENT -> newX=27 newY=13
+UPDATE -> itemSpawned x=2 y=1 symbol=O
+ITEM_MOVEMENT -> newX=2 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=4 newY=10
+ITEM_MOVEMENT -> newX=27 newY=14
+ITEM_MOVEMENT -> newX=2 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=4 newY=11
+ITEM_MOVEMENT -> newX=27 newY=15
+ITEM_MOVEMENT -> newX=2 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=4 newY=12
+ITEM_MOVEMENT -> newX=2 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=4 newY=13
+INPUT -> key=RightArrow playerX=12 playerY=14
+MOVEMENT -> oldX=11 newX=12
+UPDATE -> itemSpawned x=0 y=1 symbol=*
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=2 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=4 newY=14
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=2 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=4 newY=15
+INPUT -> key=RightArrow playerX=13 playerY=14
+MOVEMENT -> oldX=12 newX=13
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=2 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=2 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+UPDATE -> itemSpawned x=11 y=1 symbol=*
+ITEM_MOVEMENT -> newX=11 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=2 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+ITEM_MOVEMENT -> newX=11 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=2 newY=11
+ITEM_MOVEMENT -> newX=19 newY=15
+ITEM_MOVEMENT -> newX=11 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=2 newY=12
+ITEM_MOVEMENT -> newX=11 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=2 newY=13
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=11 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=2 newY=14
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=11 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=2 newY=15
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=11 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=11 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=*
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=11 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=11 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=11 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=11 newY=13
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+UPDATE -> itemSpawned x=20 y=1 symbol=*
+ITEM_MOVEMENT -> newX=20 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=11 newY=14
+INPUT -> key=RightArrow playerX=15 playerY=14
+MOVEMENT -> oldX=14 newX=15
+ITEM_MOVEMENT -> newX=20 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=11 newY=15
+ITEM_MOVEMENT -> newX=20 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+ITEM_MOVEMENT -> newX=20 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+INPUT -> key=RightArrow playerX=16 playerY=14
+MOVEMENT -> oldX=15 newX=16
+UPDATE -> itemSpawned x=8 y=1 symbol=O
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=20 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=20 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+INPUT -> key=RightArrow playerX=17 playerY=14
+MOVEMENT -> oldX=16 newX=17
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=20 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=20 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=*
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=20 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+INPUT -> key=RightArrow playerX=18 playerY=14
+MOVEMENT -> oldX=17 newX=18
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=20 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=20 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=20 newY=13
+UPDATE -> itemSpawned x=1 y=1 symbol=O
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=20 newY=14
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=20 newY=15
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+INPUT -> key=RightArrow playerX=19 playerY=14
+MOVEMENT -> oldX=18 newX=19
+UPDATE -> itemSpawned x=19 y=1 symbol=O
+ITEM_MOVEMENT -> newX=19 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=19 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=19 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=19 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=19 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=19 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=19 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=19 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+INPUT -> key=LeftArrow playerX=18 playerY=14
+MOVEMENT -> oldX=19 newX=18
+UPDATE -> itemSpawned x=9 y=1 symbol=O
+ITEM_MOVEMENT -> newX=9 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=19 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=9 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=19 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+ITEM_MOVEMENT -> newX=9 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=19 newY=12
+ITEM_MOVEMENT -> newX=9 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=19 newY=13
+INPUT -> key=RightArrow playerX=19 playerY=14
+MOVEMENT -> oldX=18 newX=19
+UPDATE -> itemSpawned x=7 y=1 symbol=*
+ITEM_MOVEMENT -> newX=7 newY=2
+ITEM_MOVEMENT -> newX=9 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=19 newY=14
+COLLISION -> score=2 itemX=19 itemY=14
+ITEM_MOVEMENT -> newX=7 newY=3
+ITEM_MOVEMENT -> newX=9 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=7 newY=4
+ITEM_MOVEMENT -> newX=9 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+INPUT -> key=RightArrow playerX=20 playerY=14
+MOVEMENT -> oldX=19 newX=20
+ITEM_MOVEMENT -> newX=7 newY=5
+ITEM_MOVEMENT -> newX=9 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+UPDATE -> itemSpawned x=3 y=1 symbol=O
+ITEM_MOVEMENT -> newX=3 newY=2
+ITEM_MOVEMENT -> newX=7 newY=6
+ITEM_MOVEMENT -> newX=9 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+INPUT -> key=RightArrow playerX=21 playerY=14
+MOVEMENT -> oldX=20 newX=21
+ITEM_MOVEMENT -> newX=3 newY=3
+ITEM_MOVEMENT -> newX=7 newY=7
+ITEM_MOVEMENT -> newX=9 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+ITEM_MOVEMENT -> newX=3 newY=4
+ITEM_MOVEMENT -> newX=7 newY=8
+ITEM_MOVEMENT -> newX=9 newY=12
+ITEM_MOVEMENT -> newX=3 newY=5
+ITEM_MOVEMENT -> newX=7 newY=9
+ITEM_MOVEMENT -> newX=9 newY=13
+UPDATE -> itemSpawned x=0 y=1 symbol=O
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=3 newY=6
+ITEM_MOVEMENT -> newX=7 newY=10
+ITEM_MOVEMENT -> newX=9 newY=14
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=3 newY=7
+ITEM_MOVEMENT -> newX=7 newY=11
+ITEM_MOVEMENT -> newX=9 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=3 newY=8
+ITEM_MOVEMENT -> newX=7 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=3 newY=9
+ITEM_MOVEMENT -> newX=7 newY=13
+INPUT -> key=LeftArrow playerX=20 playerY=14
+MOVEMENT -> oldX=21 newX=20
+UPDATE -> itemSpawned x=17 y=1 symbol=O
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=3 newY=10
+ITEM_MOVEMENT -> newX=7 newY=14
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=3 newY=11
+ITEM_MOVEMENT -> newX=7 newY=15
+INPUT -> key=LeftArrow playerX=19 playerY=14
+MOVEMENT -> oldX=20 newX=19
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=3 newY=12
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=3 newY=13
+UPDATE -> itemSpawned x=0 y=1 symbol=*
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=3 newY=14
+INPUT -> key=LeftArrow playerX=18 playerY=14
+MOVEMENT -> oldX=19 newX=18
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=3 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+INPUT -> key=LeftArrow playerX=17 playerY=14
+MOVEMENT -> oldX=18 newX=17
+UPDATE -> itemSpawned x=10 y=1 symbol=O
+ITEM_MOVEMENT -> newX=10 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+ITEM_MOVEMENT -> newX=10 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+ITEM_MOVEMENT -> newX=10 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+ITEM_MOVEMENT -> newX=10 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+UPDATE -> itemSpawned x=18 y=1 symbol=*
+ITEM_MOVEMENT -> newX=18 newY=2
+ITEM_MOVEMENT -> newX=10 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+COLLISION -> score=3 itemX=17 itemY=14
+ITEM_MOVEMENT -> newX=18 newY=3
+ITEM_MOVEMENT -> newX=10 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+INPUT -> key=RightArrow playerX=18 playerY=14
+MOVEMENT -> oldX=17 newX=18
+ITEM_MOVEMENT -> newX=18 newY=4
+ITEM_MOVEMENT -> newX=10 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+ITEM_MOVEMENT -> newX=18 newY=5
+ITEM_MOVEMENT -> newX=10 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=18 newY=6
+ITEM_MOVEMENT -> newX=10 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=18 newY=7
+ITEM_MOVEMENT -> newX=10 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+INPUT -> key=LeftArrow playerX=17 playerY=14
+MOVEMENT -> oldX=18 newX=17
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=18 newY=8
+ITEM_MOVEMENT -> newX=10 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=18 newY=9
+ITEM_MOVEMENT -> newX=10 newY=13
+UPDATE -> itemSpawned x=5 y=1 symbol=*
+ITEM_MOVEMENT -> newX=5 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=18 newY=10
+ITEM_MOVEMENT -> newX=10 newY=14
+ITEM_MOVEMENT -> newX=5 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=18 newY=11
+ITEM_MOVEMENT -> newX=10 newY=15
+ITEM_MOVEMENT -> newX=5 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=18 newY=12
+ITEM_MOVEMENT -> newX=5 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=18 newY=13
+INPUT -> key=LeftArrow playerX=16 playerY=14
+MOVEMENT -> oldX=17 newX=16
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=5 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=18 newY=14
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=5 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=18 newY=15
+INPUT -> key=LeftArrow playerX=15 playerY=14
+MOVEMENT -> oldX=16 newX=15
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=5 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=5 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=O
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=5 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=5 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=5 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=5 newY=13
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+UPDATE -> itemSpawned x=14 y=1 symbol=*
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=5 newY=14
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=5 newY=15
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+UPDATE -> itemSpawned x=1 y=1 symbol=*
+ITEM_MOVEMENT -> newX=1 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=1 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+ITEM_MOVEMENT -> newX=1 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=1 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=1 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=1 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=1 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=1 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=O
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=1 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+COLLISION -> score=4 itemX=14 itemY=14
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=1 newY=11
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=1 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=1 newY=13
+UPDATE -> itemSpawned x=21 y=1 symbol=O
+ITEM_MOVEMENT -> newX=21 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=1 newY=14
+ITEM_MOVEMENT -> newX=21 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=1 newY=15
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=21 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+ITEM_MOVEMENT -> newX=21 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+UPDATE -> itemSpawned x=22 y=1 symbol=O
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=21 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=21 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=21 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+INPUT -> key=RightArrow playerX=13 playerY=14
+MOVEMENT -> oldX=12 newX=13
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=21 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+UPDATE -> itemSpawned x=13 y=1 symbol=O
+ITEM_MOVEMENT -> newX=13 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=21 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=13 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=21 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+INPUT -> key=RightArrow playerX=14 playerY=14
+MOVEMENT -> oldX=13 newX=14
+ITEM_MOVEMENT -> newX=13 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=21 newY=12
+ITEM_MOVEMENT -> newX=13 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=21 newY=13
+INPUT -> key=RightArrow playerX=15 playerY=14
+MOVEMENT -> oldX=14 newX=15
+UPDATE -> itemSpawned x=17 y=1 symbol=O
+ITEM_MOVEMENT -> newX=17 newY=2
+ITEM_MOVEMENT -> newX=13 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=21 newY=14
+ITEM_MOVEMENT -> newX=17 newY=3
+ITEM_MOVEMENT -> newX=13 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=21 newY=15
+INPUT -> key=RightArrow playerX=16 playerY=14
+MOVEMENT -> oldX=15 newX=16
+ITEM_MOVEMENT -> newX=17 newY=4
+ITEM_MOVEMENT -> newX=13 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+ITEM_MOVEMENT -> newX=17 newY=5
+ITEM_MOVEMENT -> newX=13 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+UPDATE -> itemSpawned x=25 y=1 symbol=*
+ITEM_MOVEMENT -> newX=25 newY=2
+ITEM_MOVEMENT -> newX=17 newY=6
+ITEM_MOVEMENT -> newX=13 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+ITEM_MOVEMENT -> newX=25 newY=3
+ITEM_MOVEMENT -> newX=17 newY=7
+ITEM_MOVEMENT -> newX=13 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+INPUT -> key=LeftArrow playerX=15 playerY=14
+MOVEMENT -> oldX=16 newX=15
+ITEM_MOVEMENT -> newX=25 newY=4
+ITEM_MOVEMENT -> newX=17 newY=8
+ITEM_MOVEMENT -> newX=13 newY=12
+ITEM_MOVEMENT -> newX=25 newY=5
+ITEM_MOVEMENT -> newX=17 newY=9
+ITEM_MOVEMENT -> newX=13 newY=13
+INPUT -> key=LeftArrow playerX=14 playerY=14
+MOVEMENT -> oldX=15 newX=14
+UPDATE -> itemSpawned x=22 y=1 symbol=*
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=25 newY=6
+ITEM_MOVEMENT -> newX=17 newY=10
+ITEM_MOVEMENT -> newX=13 newY=14
+INPUT -> key=LeftArrow playerX=13 playerY=14
+MOVEMENT -> oldX=14 newX=13
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=25 newY=7
+ITEM_MOVEMENT -> newX=17 newY=11
+ITEM_MOVEMENT -> newX=13 newY=15
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=25 newY=8
+ITEM_MOVEMENT -> newX=17 newY=12
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=25 newY=9
+ITEM_MOVEMENT -> newX=17 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=25 newY=10
+ITEM_MOVEMENT -> newX=17 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=25 newY=11
+ITEM_MOVEMENT -> newX=17 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=25 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=25 newY=13
+INPUT -> key=RightArrow playerX=13 playerY=14
+MOVEMENT -> oldX=12 newX=13
+UPDATE -> itemSpawned x=0 y=1 symbol=*
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=25 newY=14
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=25 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=8 y=1 symbol=*
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+INPUT -> key=LeftArrow playerX=12 playerY=14
+MOVEMENT -> oldX=13 newX=12
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+INPUT -> key=LeftArrow playerX=11 playerY=14
+MOVEMENT -> oldX=12 newX=11
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=26 y=1 symbol=O
+ITEM_MOVEMENT -> newX=26 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+INPUT -> key=LeftArrow playerX=10 playerY=14
+MOVEMENT -> oldX=11 newX=10
+ITEM_MOVEMENT -> newX=26 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+ITEM_MOVEMENT -> newX=26 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+INPUT -> key=LeftArrow playerX=9 playerY=14
+MOVEMENT -> oldX=10 newX=9
+ITEM_MOVEMENT -> newX=26 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=0 y=1 symbol=O
+ITEM_MOVEMENT -> newX=0 newY=2
+ITEM_MOVEMENT -> newX=26 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=0 newY=3
+ITEM_MOVEMENT -> newX=26 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=0 newY=4
+ITEM_MOVEMENT -> newX=26 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+ITEM_MOVEMENT -> newX=0 newY=5
+ITEM_MOVEMENT -> newX=26 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=0 newY=6
+ITEM_MOVEMENT -> newX=26 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=0 newY=7
+ITEM_MOVEMENT -> newX=26 newY=11
+ITEM_MOVEMENT -> newX=8 newY=15
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=0 newY=8
+ITEM_MOVEMENT -> newX=26 newY=12
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=0 newY=9
+ITEM_MOVEMENT -> newX=26 newY=13
+UPDATE -> itemSpawned x=6 y=1 symbol=O
+ITEM_MOVEMENT -> newX=6 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=0 newY=10
+ITEM_MOVEMENT -> newX=26 newY=14
+INPUT -> key=LeftArrow playerX=8 playerY=14
+MOVEMENT -> oldX=9 newX=8
+ITEM_MOVEMENT -> newX=6 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=0 newY=11
+ITEM_MOVEMENT -> newX=26 newY=15
+ITEM_MOVEMENT -> newX=6 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=0 newY=12
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+ITEM_MOVEMENT -> newX=6 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=0 newY=13
+UPDATE -> itemSpawned x=9 y=1 symbol=O
+ITEM_MOVEMENT -> newX=9 newY=2
+ITEM_MOVEMENT -> newX=6 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=0 newY=14
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=9 newY=3
+ITEM_MOVEMENT -> newX=6 newY=7
+ITEM_MOVEMENT -> newX=24 newY=11
+ITEM_MOVEMENT -> newX=0 newY=15
+ITEM_MOVEMENT -> newX=9 newY=4
+ITEM_MOVEMENT -> newX=6 newY=8
+ITEM_MOVEMENT -> newX=24 newY=12
+ITEM_MOVEMENT -> newX=9 newY=5
+ITEM_MOVEMENT -> newX=6 newY=9
+ITEM_MOVEMENT -> newX=24 newY=13
+UPDATE -> itemSpawned x=22 y=1 symbol=O
+ITEM_MOVEMENT -> newX=22 newY=2
+ITEM_MOVEMENT -> newX=9 newY=6
+ITEM_MOVEMENT -> newX=6 newY=10
+ITEM_MOVEMENT -> newX=24 newY=14
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=22 newY=3
+ITEM_MOVEMENT -> newX=9 newY=7
+ITEM_MOVEMENT -> newX=6 newY=11
+ITEM_MOVEMENT -> newX=24 newY=15
+ITEM_MOVEMENT -> newX=22 newY=4
+ITEM_MOVEMENT -> newX=9 newY=8
+ITEM_MOVEMENT -> newX=6 newY=12
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+ITEM_MOVEMENT -> newX=22 newY=5
+ITEM_MOVEMENT -> newX=9 newY=9
+ITEM_MOVEMENT -> newX=6 newY=13
+UPDATE -> itemSpawned x=14 y=1 symbol=O
+ITEM_MOVEMENT -> newX=14 newY=2
+ITEM_MOVEMENT -> newX=22 newY=6
+ITEM_MOVEMENT -> newX=9 newY=10
+ITEM_MOVEMENT -> newX=6 newY=14
+ITEM_MOVEMENT -> newX=14 newY=3
+ITEM_MOVEMENT -> newX=22 newY=7
+ITEM_MOVEMENT -> newX=9 newY=11
+ITEM_MOVEMENT -> newX=6 newY=15
+INPUT -> key=LeftArrow playerX=7 playerY=14
+MOVEMENT -> oldX=8 newX=7
+ITEM_MOVEMENT -> newX=14 newY=4
+ITEM_MOVEMENT -> newX=22 newY=8
+ITEM_MOVEMENT -> newX=9 newY=12
+ITEM_MOVEMENT -> newX=14 newY=5
+ITEM_MOVEMENT -> newX=22 newY=9
+ITEM_MOVEMENT -> newX=9 newY=13
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+UPDATE -> itemSpawned x=8 y=1 symbol=O
+ITEM_MOVEMENT -> newX=8 newY=2
+ITEM_MOVEMENT -> newX=14 newY=6
+ITEM_MOVEMENT -> newX=22 newY=10
+ITEM_MOVEMENT -> newX=9 newY=14
+ITEM_MOVEMENT -> newX=8 newY=3
+ITEM_MOVEMENT -> newX=14 newY=7
+ITEM_MOVEMENT -> newX=22 newY=11
+ITEM_MOVEMENT -> newX=9 newY=15
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=8 newY=4
+ITEM_MOVEMENT -> newX=14 newY=8
+ITEM_MOVEMENT -> newX=22 newY=12
+ITEM_MOVEMENT -> newX=8 newY=5
+ITEM_MOVEMENT -> newX=14 newY=9
+ITEM_MOVEMENT -> newX=22 newY=13
+UPDATE -> itemSpawned x=24 y=1 symbol=O
+ITEM_MOVEMENT -> newX=24 newY=2
+ITEM_MOVEMENT -> newX=8 newY=6
+ITEM_MOVEMENT -> newX=14 newY=10
+ITEM_MOVEMENT -> newX=22 newY=14
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=24 newY=3
+ITEM_MOVEMENT -> newX=8 newY=7
+ITEM_MOVEMENT -> newX=14 newY=11
+ITEM_MOVEMENT -> newX=22 newY=15
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+ITEM_MOVEMENT -> newX=24 newY=4
+ITEM_MOVEMENT -> newX=8 newY=8
+ITEM_MOVEMENT -> newX=14 newY=12
+INPUT -> key=LeftArrow playerX=6 playerY=14
+MOVEMENT -> oldX=7 newX=6
+ITEM_MOVEMENT -> newX=24 newY=5
+ITEM_MOVEMENT -> newX=8 newY=9
+ITEM_MOVEMENT -> newX=14 newY=13
+INPUT -> key=RightArrow playerX=7 playerY=14
+MOVEMENT -> oldX=6 newX=7
+UPDATE -> itemSpawned x=18 y=1 symbol=*
+ITEM_MOVEMENT -> newX=18 newY=2
+ITEM_MOVEMENT -> newX=24 newY=6
+ITEM_MOVEMENT -> newX=8 newY=10
+ITEM_MOVEMENT -> newX=14 newY=14
+ITEM_MOVEMENT -> newX=18 newY=3
+ITEM_MOVEMENT -> newX=24 newY=7
+ITEM_MOVEMENT -> newX=8 newY=11
+ITEM_MOVEMENT -> newX=14 newY=15
+ITEM_MOVEMENT -> newX=18 newY=4
+ITEM_MOVEMENT -> newX=24 newY=8
+ITEM_MOVEMENT -> newX=8 newY=12
+INPUT -> key=RightArrow playerX=8 playerY=14
+MOVEMENT -> oldX=7 newX=8
+ITEM_MOVEMENT -> newX=18 newY=5
+ITEM_MOVEMENT -> newX=24 newY=9
+ITEM_MOVEMENT -> newX=8 newY=13
+UPDATE -> itemSpawned x=15 y=1 symbol=*
+ITEM_MOVEMENT -> newX=15 newY=2
+ITEM_MOVEMENT -> newX=18 newY=6
+ITEM_MOVEMENT -> newX=24 newY=10
+ITEM_MOVEMENT -> newX=8 newY=14
+COLLISION -> score=5 itemX=8 itemY=14
+GAME_OVER -> finalScore=5

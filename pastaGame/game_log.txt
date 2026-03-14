@@ -1,0 +1,70 @@
+--- OYUN BAŞLADI ---
+INPUT -> key=LeftArrow playerX=14 playerY=14
+INPUT -> key=LeftArrow playerX=13 playerY=14
+INPUT -> key=LeftArrow playerX=12 playerY=14
+INPUT -> key=LeftArrow playerX=11 playerY=14
+INPUT -> key=LeftArrow playerX=10 playerY=14
+INPUT -> key=LeftArrow playerX=9 playerY=14
+INPUT -> key=LeftArrow playerX=8 playerY=14
+INPUT -> key=LeftArrow playerX=7 playerY=14
+INPUT -> key=LeftArrow playerX=6 playerY=14
+COLLISION -> score=1
+INPUT -> key=LeftArrow playerX=5 playerY=14
+INPUT -> key=LeftArrow playerX=4 playerY=14
+INPUT -> key=LeftArrow playerX=3 playerY=14
+INPUT -> key=LeftArrow playerX=2 playerY=14
+INPUT -> key=RightArrow playerX=3 playerY=14
+INPUT -> key=RightArrow playerX=4 playerY=14
+INPUT -> key=RightArrow playerX=5 playerY=14
+INPUT -> key=RightArrow playerX=6 playerY=14
+INPUT -> key=RightArrow playerX=7 playerY=14
+INPUT -> key=RightArrow playerX=8 playerY=14
+INPUT -> key=RightArrow playerX=9 playerY=14
+INPUT -> key=RightArrow playerX=10 playerY=14
+INPUT -> key=RightArrow playerX=11 playerY=14
+INPUT -> key=RightArrow playerX=12 playerY=14
+INPUT -> key=RightArrow playerX=13 playerY=14
+INPUT -> key=RightArrow playerX=14 playerY=14
+INPUT -> key=RightArrow playerX=15 playerY=14
+INPUT -> key=RightArrow playerX=16 playerY=14
+INPUT -> key=RightArrow playerX=17 playerY=14
+INPUT -> key=RightArrow playerX=18 playerY=14
+INPUT -> key=RightArrow playerX=19 playerY=14
+INPUT -> key=RightArrow playerX=20 playerY=14
+INPUT -> key=RightArrow playerX=21 playerY=14
+INPUT -> key=RightArrow playerX=22 playerY=14
+INPUT -> key=RightArrow playerX=23 playerY=14
+INPUT -> key=RightArrow playerX=24 playerY=14
+INPUT -> key=RightArrow playerX=25 playerY=14
+INPUT -> key=RightArrow playerX=26 playerY=14
+INPUT -> key=RightArrow playerX=27 playerY=14
+INPUT -> key=RightArrow playerX=28 playerY=14
+INPUT -> key=LeftArrow playerX=27 playerY=14
+INPUT -> key=LeftArrow playerX=26 playerY=14
+INPUT -> key=LeftArrow playerX=25 playerY=14
+INPUT -> key=LeftArrow playerX=24 playerY=14
+INPUT -> key=LeftArrow playerX=23 playerY=14
+INPUT -> key=LeftArrow playerX=22 playerY=14
+INPUT -> key=LeftArrow playerX=21 playerY=14
+INPUT -> key=LeftArrow playerX=20 playerY=14
+INPUT -> key=RightArrow playerX=21 playerY=14
+COLLISION -> score=2
+INPUT -> key=LeftArrow playerX=20 playerY=14
+INPUT -> key=RightArrow playerX=21 playerY=14
+INPUT -> key=RightArrow playerX=22 playerY=14
+INPUT -> key=LeftArrow playerX=21 playerY=14
+INPUT -> key=LeftArrow playerX=20 playerY=14
+INPUT -> key=LeftArrow playerX=19 playerY=14
+INPUT -> key=LeftArrow playerX=18 playerY=14
+INPUT -> key=LeftArrow playerX=17 playerY=14
+INPUT -> key=LeftArrow playerX=16 playerY=14
+INPUT -> key=RightArrow playerX=17 playerY=14
+INPUT -> key=LeftArrow playerX=16 playerY=14
+INPUT -> key=RightArrow playerX=17 playerY=14
+COLLISION -> score=3
+COLLISION -> score=4
+INPUT -> key=LeftArrow playerX=16 playerY=14
+INPUT -> key=LeftArrow playerX=15 playerY=14
+INPUT -> key=LeftArrow playerX=14 playerY=14
+COLLISION -> score=5
+GAME_OVER -> finalScore=5
